@@ -117,13 +117,13 @@ body{
     line-height: 24px;
     margin: 0px;
     padding: 0px;
-    
+
     display: flex;
     align-items: center;
     letter-spacing: 0.0188em;
 
     color: #1F2A36;
-
+    
     flex: none;
     order: 0;
     /* align-self: stretch; */
